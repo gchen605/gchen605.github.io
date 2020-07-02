@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "George T. Chen"
+  name             : "George Chen"
   avatar           : "profile.png"
   bio              : "Postdoctoral Scholar"
-  location         : "Laboratory of Daniel Geschwind, UCLA"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  location         : "UCLA"
+  employer         : "Geschwind Lab"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Chen+GT"
+  googlescholar    : "https://scholar.google.com/citations?user=uzjv6PQAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "http://linkedin.com/in/georgetchen
+  orcid            : "http://orcid.org/0000-0002-1342-0835"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
