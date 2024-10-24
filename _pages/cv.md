@@ -34,14 +34,21 @@ Research experience
 	* Department of Hematology/Oncology
 	* Advisor: Dr. Thomas Kipps
   
-Skills
+Honors and Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2023	Best Postdoc Poster, UCLA DGSOM Neurology Science Day
+* 2023	AACR Michael Kasten Award for Research Excellence 
+* 2018	Honorable mention, UC Irvine Cancer Research Institute Symposia
+* 2017	Best Poster, “Moving Molecules from the Academic Lab to the Clinic Symposia,” UC Irvine
+* 2017	Nominee, Tom Angell Fellowship, University of California Irvine Graduate Division
+* 2014	Honorable Mention, Public Impact Fellowship, University of California Irvine
+
+Outreach Honors
+======
+* 2016	Volunteer of the Year, FIRST Robotics Competition Orange County Regional
+* 2013	Volunteer of the Year, FIRST Lego League Southern California Region
+* 2013	Volunteer of the Year, FIRST Tech Challenge San Diego Region
+* 2010	Volunteer of the Year, Robodox/SMI Vex Robotics Competition
 
 Publications
 ======
