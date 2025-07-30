@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/undergraduate
 venue: "University of California San Diego, Department of Biology"
-date: 2006-2009
 location: "La Jolla, CA"
 ---
 

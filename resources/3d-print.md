@@ -14,8 +14,10 @@ Sections
 2. Basic workflow (aka: I found something online I want to print)
 3. Advanced workflow (aka: I want to design my own stuff to print)
 
-You can have many headings
+Definitions
 ======
+## What is 3D printing? 
+
 
 Aren't headings cool?
 ------
