@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/graduate
 venue: "University of California Irvine, Department of Biology"
-date: 2012-2018
 location: "Irvine, CA"
 ---
 
