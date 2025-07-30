@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/undergraduate
 venue: "University of California San Diego, Department of Biology"
 location: "La Jolla, CA"
-date: 2005
+date: 2005-09-01
 ---
 
 As an undergraduate teaching apprentice, I taught discussion sections in BILD3 Introduction to Evolutionary Biology and BIMM110 Molecular Basis of Human Disease.
