@@ -27,13 +27,13 @@ We currently have a [Prusa Core One](https://www.prusa3d.com/product/prusa-core-
 ## What types of materials can we print?
 
 # Basic workflow
-* AKA I found something online I want to print *
+**AKA I found something online I want to print** <br>
 There are 3 main steps to 3D printing:
 1. Get a printable 3D model: Usually an STL or OBJ file, these are widely shared online
 2. Prepare the file for printing: Using a 'slicer' software package, prepare the model file for printing. The slicer exports a 'G-code,' which is a printer-specific set of instructions that include information about temperature, output speed, etc.
 3. Print it
 
-## Places to get 3D models to print
+## 1. Get a printable 3D model
 - [Printables](https://www.printables.com/)
 - [Thingiverse](https://www.thingiverse.com/)
 - [MyMiniFactory](https://www.myminifactory.com/)
@@ -41,9 +41,17 @@ There are 3 main steps to 3D printing:
 - [Yeggi 3D model search engine](https://www.yeggi.com)
 - [NIH 3D Print Exchange](https://3d.nih.gov/)
 
-## Slicers
+## 2. Prepare the file for printing
+
 - PrusaSlicer
 - Cura
 
+## Printing the model
+1. Save the G-Code to a flash drive
+2. Turn on the printer (rear of machine)
+3. Check to see that the correct filament is loaded (If not, see Changing Filament)
+4. Plug in flash drive
+5. Print
+
 # Advanced Workflow
-* AKA I want to design my own stuff to print
+**AKA I want to design my own stuff to print** <br>
