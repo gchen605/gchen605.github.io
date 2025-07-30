@@ -16,8 +16,11 @@ Sections
 
 Definitions
 ======
-## What is 3D printing? 
+What is 3D printing? 
+3D printing is an automated additive manufacturing process. There are numerous technologies for 3D printing, but for the purposes of this guide, we will ficus on the most commonly used one, called FFF (Fused Filament Fabrication) in which an object is created layer by layer by melting a strand of plastic.
+
 
 
 Aren't headings cool?
-------
+---
+---
