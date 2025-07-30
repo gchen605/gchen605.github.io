@@ -2,6 +2,7 @@
 title: "3D Printing for Life Scientists"
 date: 2025-07-30
 permalink: /resources/3d-print
+collection: resources
 ---
 
 This is a short primer on getting started with 3D printing for the laboratory.
