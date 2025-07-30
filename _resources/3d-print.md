@@ -1,7 +1,7 @@
 ---
 title: '3D Printing for Life Scientists'
 date: 2025-07-30
-permalink: /posts/2025/3d-print/
+permalink: /resources/3d-print/
 tags:
   - resources
   - 3d printing
