@@ -1,10 +1,8 @@
 ---
-title: '3D Printing for Life Scientists'
+title: "3D Printing for Life Scientists"
 date: 2025-07-30
-permalink: /posts/2025/3d-print/
-tags:
-  - resources
-  - 3d printing
+permalink: /resources/3d-print
+
 ---
 This is a short primer on getting started with 3D printing for the laboratory.
 
