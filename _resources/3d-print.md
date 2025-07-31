@@ -38,6 +38,7 @@ The most frequently used filaments are PLA, PETG, and ASA.
 * Low thermal expansion compared to other materials. It does not warp, and sticks to the printing platform nicely. This is why it’s suitable for printing large objects.
 * PLA comes in a wide variety of colors.
 * One of the cheaper materials
+
 **Cons:**
 * PLA is hard and brittle. It has a tendency to break and shatter under pressure.
 * PLA is not temperature-resistant, it starts to soften at around 60 °C (140 °C), which makes it a less-than-ideal choice for printing things like car smartphone holder.
@@ -125,5 +126,5 @@ I am going to rely on you learning how to CAD on your own, but here are some sof
 ---
 
 # Other Resources
-[Reddit 3D Printing](https://www.reddit.com/r/3Dprinting/)
-[Making Models](https://www.reddit.com/r/3Dprinting/wiki/makingmodels)
+* [Reddit 3D Printing](https://www.reddit.com/r/3Dprinting/)
+* [Making Models](https://www.reddit.com/r/3Dprinting/wiki/makingmodels)
