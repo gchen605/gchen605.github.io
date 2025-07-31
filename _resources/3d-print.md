@@ -71,9 +71,10 @@ The most common slicer software:
 
 I am going to rely on you learning how to CAD on your own, but here are some software packages to get you started.
 * [Tinkercad](https://www.tinkercad.com): Super intuitive and easy to use. Free but registration is required. 90% of what I've needed to design I can at least get started on Tinkercad.
-* FreeCAD
-* Autodesk Fusion
-* Solidworks
+* [FreeCAD](https://www.freecad.org/): FOSS offline CAD software
+* Autodesk Fusion: Paid
+* Solidworks: Paid
+* Blender: FOSS 3D rendering software
 
 ## Things to consider when designing a model:
 1. Try to minimize the need for supports
@@ -81,7 +82,7 @@ I am going to rely on you learning how to CAD on your own, but here are some sof
 3. Consider splitting a model into multiple parts if there are overhangs/low adhesion points (eg. a sphere printed as 2 halves and glued together will look better than printed all at once.
 4. Consider tolerances when modeling parts to fit together. There's no universal rule, but generally a minimum of 0.15mm difference should be included.
 5. Circular holes printed vertically won't be perfectly circular.
-6. Walls must be about 0.45mm at minimum
+6. Walls must be about 0.45mm at minimum (for this printer)
 
 ---
 
@@ -133,4 +134,4 @@ The most frequently used filaments are PLA, PETG, and ASA.
 # Other Resources
 * [Reddit 3D Printing](https://www.reddit.com/r/3Dprinting/)
 * [Making Models](https://www.reddit.com/r/3Dprinting/wiki/makingmodels)
-* My Printables profile
+* [My Printables profile](https://www.printables.com/@gtchen_3494313)
