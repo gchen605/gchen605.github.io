@@ -56,6 +56,8 @@ The most frequently used filaments are PLA, PETG, and ASA.
 ### TPU/TPE
 * Rubber-like flexibility
 
+---
+
 # Basic workflow
 **AKA I found something online I want to print** <br>
 There are 3 main steps to 3D printing:
@@ -96,10 +98,12 @@ The most common slicer software:
 4. Clean build plate (Use a kimiwipe + isopropyl alcohol)
 5. Plug in flash drive
 6. Print
-7. With gloves, remove build plate once cool and **gently** bend to pop off the model (may need to use plastic spatula to help remove model
-	**DO NOT USE METAL OBJECTS ON BUILD PLATE**
+7. With gloves, remove build plate once cool and **gently** bend to pop off the model (may need to use plastic spatula to help remove model.
+	**DO NOT USE METAL OBJECTS ON BUILD PLATE!**
 8. Clean up any extra plastic in printer
 9. Turn off machine
+
+---
 
 # Advanced Workflow
 **AKA I want to design my own stuff to print** <br>
@@ -117,3 +121,9 @@ I am going to rely on you learning how to CAD on your own, but here are some sof
 4. Consider tolerances when modeling parts to fit together. There's no universal rule, but generally a minimum of 0.15mm difference should be included.
 5. Circular holes printed vertically won't be perfectly circular.
 6. Walls must be about 0.45mm at minimum
+
+---
+
+# Other Resources
+[Reddit 3D Printing](https://www.reddit.com/r/3Dprinting/)
+[Making Models](https://www.reddit.com/r/3Dprinting/wiki/makingmodels)
