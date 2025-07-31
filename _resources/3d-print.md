@@ -21,6 +21,9 @@ This is a short primer on getting started with 3D printing for the laboratory.
 
 # Basic workflow
 **AKA I found something online I want to print** <br>
+We currently have a [Prusa Core One](https://www.prusa3d.com/product/prusa-core-one/)
+Here is its [handbook](https://help.prusa3d.com/product/core-one), which I highly encourage you to read to start.
+
 There are 3 main steps to 3D printing:
 1. Get a printable 3D model: Usually an STL or OBJ file, these are widely shared online
 2. Prepare the file for printing: Using a 'slicer' software package, prepare the model file for printing. The slicer exports a 'G-code,' which is a printer-specific set of instructions that include information about temperature, output speed, etc.
@@ -91,12 +94,11 @@ I am going to rely on you learning how to CAD on your own, but here are some sof
 ## What is 3D printing? 
 3D printing is an automated additive manufacturing process. There are numerous technologies for 3D printing, but for the purposes of this guide, we will ficus on the most commonly used one, called FFF (Fused Filament Fabrication) in which an object is created layer by layer by melting a strand of plastic.
 
-## What printer do we have?
-We currently have a [Prusa Core One](https://www.prusa3d.com/product/prusa-core-one/)
-Here is its [handbook](https://help.prusa3d.com/product/core-one), which I highly encourage you to read to start.
-
 ## What can we print?
 Anything that can fit in the build volume (unless you want to break a model up into multiple pieces.
+
+## Can you print transparent objects?
+Not with a FFF printer, would want to use a resin printer (SLM) or laser cutter (available at UCLA Makerspace)
 
 ## Are 3d-printed parts food-safe?
 I wouldn't try it, unless they are coated in a food-safe epoxy.
