@@ -8,54 +8,14 @@ author_profile: true
 
 This is a short primer on getting started with 3D printing for the laboratory.
 
+![Basic 3D Printing overview](/images/basics-of-3d-printing.jpg "3D printing basics")
+
 # Sections
 
-1.  [Definitions](#definitions)
-2.  [Basic workflow (aka: I found something online I want to print)](#basic-workflow)
-3.  [Advanced workflow (aka: I want to design my own stuff to print)](#advanced-workflow)
-
-# Definitions
-
-## What is 3D printing? 
-3D printing is an automated additive manufacturing process. There are numerous technologies for 3D printing, but for the purposes of this guide, we will ficus on the most commonly used one, called FFF (Fused Filament Fabrication) in which an object is created layer by layer by melting a strand of plastic.
-
-## What printer do we have?
-We currently have a [Prusa Core One](https://www.prusa3d.com/product/prusa-core-one/)
-
-## What can we print?
-Anything that can fit in the build volume (unless you want to break a model up into multiple pieces.
-
-## Are 3d-printed parts food-safe?
-I wouldn't try it, unless they are coated in a food-safe epoxy.
-
-## What types of materials can we print?
-The most frequently used filaments are PLA, PETG, and ASA. 
-
-### PLA
-**Pros:**
-* It’s easy to print. 
-* No unpleasant odor during printing
-* Low thermal expansion compared to other materials. It does not warp, and sticks to the printing platform nicely. This is why it’s suitable for printing large objects.
-* PLA comes in a wide variety of colors.
-* One of the cheaper materials
-
-**Cons:**
-* PLA is hard and brittle. It has a tendency to break and shatter under pressure.
-* PLA is not temperature-resistant, it starts to soften at around 60 °C (140 °C), which makes it a less-than-ideal choice for printing things like car smartphone holder.
-* Compared to the rest of popular materials, PLA has the worst weather resistance.
-
-### PETG & ASA
-**Pros:**
-* More flexible than PLA
-* Shinier finish
-* UV Stable, lower thermal expansion
-
-**Cons:**
-* Tend to bend and warp during printing
-* Noticeable odor during printing
-
-### TPU/TPE
-* Rubber-like flexibility
+1.  [Basic workflow (aka: I found something online I want to print)](#basic-workflow)
+2.  [Advanced workflow (aka: I want to design my own stuff to print)](#advanced-workflow)
+3.  [FAQ](#faq)
+4.  [Other Resources](#other-resources)
 
 ---
 
@@ -95,7 +55,7 @@ The most common slicer software:
 ## Printing the model
 1. Save the G-Code to a flash drive
 2. Turn on the printer (rear of machine)
-3. Check to see that the correct filament is loaded (If not, see Changing Filament)
+3. Check to see that the correct filament is loaded (If not, see Changing Filament in the [handbook](https://help.prusa3d.com/product/core-one))
 4. Clean build plate (Use a kimiwipe + isopropyl alcohol)
 5. Plug in flash drive
 6. Print
@@ -125,6 +85,52 @@ I am going to rely on you learning how to CAD on your own, but here are some sof
 
 ---
 
+# FAQ
+
+## What is 3D printing? 
+3D printing is an automated additive manufacturing process. There are numerous technologies for 3D printing, but for the purposes of this guide, we will ficus on the most commonly used one, called FFF (Fused Filament Fabrication) in which an object is created layer by layer by melting a strand of plastic.
+
+## What printer do we have?
+We currently have a [Prusa Core One](https://www.prusa3d.com/product/prusa-core-one/)
+Here is its [handbook](https://help.prusa3d.com/product/core-one), which I highly encourage you to read to start.
+
+## What can we print?
+Anything that can fit in the build volume (unless you want to break a model up into multiple pieces.
+
+## Are 3d-printed parts food-safe?
+I wouldn't try it, unless they are coated in a food-safe epoxy.
+
+## What types of materials can we print?
+The most frequently used filaments are PLA, PETG, and ASA. 
+
+### PLA
+**Pros:**
+* It’s easy to print. 
+* No unpleasant odor during printing
+* Low thermal expansion compared to other materials. It does not warp, and sticks to the printing platform nicely. This is why it’s suitable for printing large objects.
+* PLA comes in a wide variety of colors.
+* One of the cheaper materials
+
+**Cons:**
+* PLA is hard and brittle. It has a tendency to break and shatter under pressure.
+* PLA is not temperature-resistant, it starts to soften at around 60 °C (140 °C), which makes it a less-than-ideal choice for printing things like car smartphone holder.
+* Compared to the rest of popular materials, PLA has the worst weather resistance.
+
+### PETG & ASA
+**Pros:**
+* More flexible than PLA
+* Shinier finish
+* UV Stable, lower thermal expansion
+
+**Cons:**
+* Tend to bend and warp during printing
+* Noticeable odor during printing
+
+### TPU/TPE
+* Rubber-like flexibility
+
+---
 # Other Resources
 * [Reddit 3D Printing](https://www.reddit.com/r/3Dprinting/)
 * [Making Models](https://www.reddit.com/r/3Dprinting/wiki/makingmodels)
+* My Printables profile
