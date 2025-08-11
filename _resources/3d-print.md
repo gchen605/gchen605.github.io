@@ -54,6 +54,17 @@ The most common slicer software:
 	* Brim: Additional flat surface to prevent object from warping/detaching mid-print
 	* Skirt: An outline around all the models on the print bed. Doesn't help the model adhere but helps quickly verify that first layer is sticking properly
 	* Raft: A heavy-duty support structure to prevent warping/lifting from the print surface
+	
+### Step by step instructions for PrusaSlicer (Beginner Mode specified in top right corner)
+1. Load model into PrusaSlicer
+2. Select Print settings (number indicates layer height, smaller number = more detailed)
+3. Select filament (if known, otherwise Generic PLA is fine)
+4. Printer: Prusa CORE One HF 0.4 Nozzle
+5. Supports: None (this assumes the model will sit well on the build plate, if not, the software may suggest adding supports)
+6. Infill: 15% is good for most applications
+7. Arrange/scale model on plate (or multiple models if you print a bunch of stuff at once)
+8. Click "Slice Now"
+9. Export G-Code to flash drive.
 
 ## Printing the model
 1. Save the G-Code to a flash drive
@@ -101,7 +112,10 @@ Anything that can fit in the build volume (unless you want to break a model up i
 Not with a FFF printer, you would want to use a resin printer (SLM) or laser cutter (available at UCLA Makerspace)
 
 ## Are 3d-printed parts food-safe?
-I wouldn't try it, unless they are coated in a food-safe epoxy.
+Technically yes, though I wouldn't try it, unless they are coated in a food-safe epoxy.
+
+## Are 3d-printed parts autoclavable?
+No, but they can be sprayed down with 70% EtOH. 
 
 ## What types of materials can we print?
 The most frequently used filaments are PLA, PETG, and ASA. 
